@@ -10,6 +10,7 @@ Arduino Nano (or compatible device) firmware that plays with the following set o
 ## Features
 - communicating
   - with PC desktop through UART
+    - [desktop app] (https://github.com/konstunn/smarthouse-server)
   - with Android-based mobile device through bluetooth using [client](https://github.com/konstunn/smarthouse-android-bluetooth-client) app
     - PCD8544 LCD backlight remote control from mobile device
     - display temperature, humidity, illumination on mobile device screen
